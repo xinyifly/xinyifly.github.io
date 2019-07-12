@@ -17,7 +17,7 @@ sh get-docker.sh
 sh get-docker.sh --mirror Aliyun
 ~~~
 
-[Configure Docker Hub registry mirrors]([configure-dockerhub-registry-mirrors]: https://mirrors.ustc.edu.cn/help/dockerhub.html)
+[Configure Docker Hub registry mirrors](https://mirrors.ustc.edu.cn/help/dockerhub.html)
 
 ### For CentOS:
 
